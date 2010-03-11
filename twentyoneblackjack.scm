@@ -3,6 +3,7 @@
 ;project 1, cs61 data structure and interpretation of computer programs
 ;laney spring 2010
 ;by roselyn roark
+;code before commented functions provided by tu pham
 
 
 (define (twenty-one strategy)
