@@ -1,8 +1,6 @@
  
 ;twenty-one.scm 
-;project 1, cs61 data structure and interpretation of computer programs
-;laney spring 2010
-;by roselyn roark
+;project 1, cs61 data structure and interpretation 
 ;code before commented functions provided by tu pham
 
 
